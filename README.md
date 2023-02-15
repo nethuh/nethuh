@@ -1,3 +1,6 @@
+<div align="center">
+  <img height="200" src="https://camo.githubusercontent.com/8d65a64339f081d884922f9eb93eb6375e3d5bac763cc75c94af9cdf3fad9261/68747470733a2f2f71756978792e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f31322f474946696e672d796f752d616e2d496e73696768742d696e746f2d4e6f2d436f64652e706e67"  />
+</div>
 <h1 align="center">Hi 👋, I'm Sayani</h1>
 <h3 align="center">A Student of Graduate Diploma in Software Engineering in IJSE</h3>
 
