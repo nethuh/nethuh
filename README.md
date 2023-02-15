@@ -4,8 +4,9 @@
 <h1 align="center">Hi 👋, I'm Sayani</h1>
 <h3 align="center">A Student of Graduate Diploma in Software Engineering in IJSE</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nethuh&label=Profile%20views&color=0e75b6&style=flat" alt="nethuh" /> </p>
 
+<img align="right" height="200" src="https://media.tenor.com/zBZnGatBkgAAAAAj/cute-girl.gif"  />
+ 
 - 🔭 I’m currently studying at **Institute of Java Software Engineering**
 
 - 🌱 I’m currently learning **Web Development and other programming languages**
@@ -53,7 +54,6 @@
 </div>
 
 ###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nethuh&label=Profile%20views&color=0e75b6&style=flat" alt="nethuh" /> </p>
 
-<img align="right" height="150" src="https://media.tenor.com/zBZnGatBkgAAAAAj/cute-girl.gif"  />
 
-###
